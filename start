@@ -1,0 +1,3 @@
+#!/bin/sh
+set -eux
+python -m SimpleHTTPServer 8088
